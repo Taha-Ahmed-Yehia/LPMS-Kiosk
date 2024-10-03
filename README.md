@@ -6,8 +6,10 @@ The app is intended to be not fully free and when i say free it is free that mea
 This Project is still in development phase so please be patient with the developer as he works alone and life isn't easy on him 😔.
 
 # Features
-  - You can add, delete, edit products.
   - Offline Database (make sure you have space on ur phone).
+  - You can Add, Delete, Edit products in your inventory.
+  - Scan or Add or Remove orders and show total payment.
+  - Display total price and total price with tax after adding new order.
   - Auto calculate revenue.
   - Show yearly revenue.
   - Use your phone camera to scan barcodes.
