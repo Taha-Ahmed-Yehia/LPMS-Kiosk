@@ -11,6 +11,6 @@ This Project is still in development phase so please be patient with the develop
   
 # Release Builds
  * Android apk:
-   - **Note:** this apk tested on Android 5, 7 and 8 for **Mobile** only if you have any problem in other os above Android 5 please tell me.
+   - **Note:** this apk tested on Android 5, 7 and 8 for **Mobile** only if you have any problem in other os above Android 4 please tell me.
    - Dowmload Links: [Google Drive](https://drive.google.com/file/d/1LCuV5HrcsV4BeLF98DNKY7-FDNwDqcHl/view?usp=sharing)
    
