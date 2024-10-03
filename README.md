@@ -13,6 +13,7 @@ This Project is still in development phase so please be patient with the develop
   - Use your phone camera to scan barcodes.
   - Sound and Vibration Feedback on actions done.
   - Light and Dark Theme.
+  - And soon more Features will be added.
 
 # Show Case
   <img src="https://github.com/user-attachments/assets/ae068446-61f1-43ac-8fd8-6015c5309cb4" width="180" height="320">
