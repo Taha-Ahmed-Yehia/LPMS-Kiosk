@@ -1,7 +1,8 @@
 # Light Product Management System Kiosk
 A free inventory management system and cashier for small business that have android phones.
 
-The app is intended to be not fully free and when i say free it is free that mean no ads or in app purchase and it is going to be for multi platform but currently focused on android.
+The app is intended to be not fully free in the future as i will add some features that well require purchasing it.
+The app is going to be for multi platform but currently focused on android.
 
 This Project is still in development phase so please be patient with the developer as he works alone and life isn't easy on him 😔.
 
